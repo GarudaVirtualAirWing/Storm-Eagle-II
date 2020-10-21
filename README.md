@@ -12,8 +12,8 @@ Recent Intel suggests that GIA were fielding equipments sourced from Russia, wit
 
 ## Objectives
 * Suppress/Destroy the GIA Air Defence Emplacements
- > * Neutralize Strategic Surface-to-Air Missile sites located around ...
- > * Neutralize Early Warning Radar sites located around ...
+ > * Neutralize Strategic Surface-to-Air Missile sites located around Sukhumi and Kutaisi
+ > * Neutralize Early Warning Radar sites located around Kutaisi and Tbilisi
  > * Destroy various Targets of Opportunity: Convoys and Camps
 * Recapture Kutaisi and Senaki-Kolkhi Airbase
 * Destroy Abkhazian Anti-Ship Missile and Oil-Rig
