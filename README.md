@@ -2,7 +2,7 @@
 DCT Theater Garuda virtual Air Wing - Caucasus Maps
 ======================================================
 Briefing Details: https://docs.google.com/document/d/1h-eo-8eK9YTPmrW_j9iH0UpqQl5kiE8qgP1sjMGHV1U/edit?usp=sharing
-======================================================
+
 ## Scenario
 This mission is a spin-off based on an alternate timeline of GvAW's Georgia Liberation Dynamic Campaign. In this timeline, the Georgian Government and Georgian Insurgency Army (GIA) is in a stalemate with the front line being drawn just north and east of Kobuleti.
 
