@@ -2,39 +2,41 @@
 DCT file (.dct)
 
 isinya:
+DCT file (.dct)
+fill:
 
-```metadata = {
+metadata = {
 	["rank"]     = 2,
 	["objtype"]  = "[OBJECT TYPE NAME]",
 	["exclusion"] = nil,
 	["base"]     = nil,
 	["intel"]	 = 2,
 	["alwaysSpawn"] = false,
-}```
+}
 
 
 
 #convoy-gnd
-`-> Objtype: logistics`
+-> Objtype: logistics
 
-# convoy-sea
-`-> Objtype: sea`
+#convoy-sea
+-> Objtype: sea
 
 
 #keepout
-```-> Objtype: keepout`
+-> Objtype: keepout
 DCT file (.dct) for keepout
-`
+
 	metadata = {
 		["rank"]     = 2,
 		["objtype"]  = "keepout",
 
 		["base"]     = nil,
-	}```
+	}
 
 #base-defense
-`-> Objtype: basedefense`
+-> Objtype: basedefense
 
 
 #oca
-`-> Objtype: oca`
+-> Objtype: oca
