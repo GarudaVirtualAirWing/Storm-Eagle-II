@@ -3,14 +3,14 @@ DCT file (.dct)
 
 isinya:
 
-`metadata = {
+```metadata = {
 	["rank"]     = 2,
 	["objtype"]  = "[OBJECT TYPE NAME]",
 	["exclusion"] = nil,
 	["base"]     = nil,
 	["intel"]	 = 2,
 	["alwaysSpawn"] = false,
-}`
+}```
 
 
 
@@ -22,7 +22,7 @@ isinya:
 
 
 #keepout
-`-> Objtype: keepout`
+```-> Objtype: keepout`
 DCT file (.dct) for keepout
 `
 	metadata = {
@@ -30,7 +30,7 @@ DCT file (.dct) for keepout
 		["objtype"]  = "keepout",
 
 		["base"]     = nil,
-	}`
+	}```
 
 #base-defense
 `-> Objtype: basedefense`
